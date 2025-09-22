@@ -1,8 +1,8 @@
-
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Exam Registration - Smart Assessment Hub</title>
+    <title>Exam Registration - EduAssessPro</title>
     <style>
         body {
             font-family: Arial, sans-serif;
